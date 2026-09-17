@@ -1,5 +1,6 @@
 # Wardogs-FOV-ADS-Tweaks
 FOV &amp; ADS tweaks for Wardogs (UE5) — optimal Field of View and ADS multiplier presets for competitive play. See more, aim better. Free.
+![Wardogs FOV & ADS Tweaks banner](assets/banner.png)
 
 [![Latest Release](https://img.shields.io/github/v/release/IdentityCuckoo/Wardogs-FOV-ADS-Tweaks?style=flat-square&color=red&label=latest)](https://github.com/IdentityCuckoo/Wardogs-FOV-ADS-Tweaks/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/IdentityCuckoo/Wardogs-FOV-ADS-Tweaks/total?style=flat-square&color=blue)](https://github.com/IdentityCuckoo/Wardogs-FOV-ADS-Tweaks/releases)
@@ -11,6 +12,7 @@ FOV &amp; ADS tweaks for Wardogs (UE5) — optimal Field of View and ADS multipl
 An optimized `Engine.ini` config for **Wardogs** (UE5) that sets the ideal Field of View and ADS multiplier for competitive play. Built for the 100-player chaos.
 
 > **Current version:** `1.2.1` — Compatible with Early Access build (September 2026).
+
 
 ---
 
